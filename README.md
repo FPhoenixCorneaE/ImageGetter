@@ -4,8 +4,9 @@ TextView set Html string with img and listening img clicked event.
 
 预览图片：
 -----------------------------------
-![预览图片](https://github.com/FPhoenixCorneaE/ImageGetter/blob/master/image/img.png)
-
+<div align="center">
+    <img src="https://github.com/FPhoenixCorneaE/ImageGetter/blob/master/image/img.png" width="320"/>
+</div>
 
 代码中使用：
 -------------------
